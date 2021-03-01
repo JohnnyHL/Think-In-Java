@@ -1,7 +1,7 @@
 package com.hl.magic.base.exceptions;
 
 /**
- * Java控制台异常
+ * Java异常
  *
  * @author hl
  * @date 2021/1/5 10:28

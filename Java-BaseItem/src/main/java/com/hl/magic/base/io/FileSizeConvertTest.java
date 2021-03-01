@@ -1,7 +1,5 @@
 package com.hl.magic.base.io;
 
-import com.hl.magic.base.utils.FileUtils;
-import com.hl.magic.base.utils.UuidGenerator;
 import org.junit.Test;
 
 import java.io.File;
