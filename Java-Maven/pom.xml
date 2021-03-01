@@ -16,8 +16,6 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
-		<target.applicaion.version>APPLICAION.1.0-RELESSE</target.applicaion.version>
-		<target.lib.version>LIB.1.0-RELESSE</target.lib.version>
 		<fastjson.version>1.2.5</fastjson.version>
 		<commons.lang3.version>3.8.1</commons.lang3.version>
 		<commons.pool2.version>2.5.0</commons.pool2.version>
