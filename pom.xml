@@ -16,6 +16,7 @@
 		<module>Java-BaseItem</module>
 		<module>Java-Git</module>
 		<module>Java-Maven</module>
+		<module>Java-Algorithm</module>
 	</modules>
 
 	<!-- 属性版本配置 -->
