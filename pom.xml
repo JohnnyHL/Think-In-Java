@@ -10,8 +10,7 @@
 	<version>1.0-SNAPSHOT</version>
 
 	<modules>
-		<module>Java-CoreReel</module>
-		<module>Java-DesignMode</module>
+		<module>Java-DesignPattern</module>
 		<module>Java-LetCode</module>
 		<module>Java-BaseItem</module>
 		<module>Java-Git</module>

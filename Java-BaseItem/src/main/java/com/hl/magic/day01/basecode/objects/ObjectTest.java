@@ -14,11 +14,11 @@ public class ObjectTest {
         Integer i = 10;
         Integer j = 10;
 
-        System.out.println(i == j);
+        System.out.println(i.equals(j));
 
         Integer a = 500;
         Integer b = 500;
-        System.out.println(a == b);
+        System.out.println(a.equals(b));
 
     }
 
