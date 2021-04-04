@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dp2factory.demo01.service;
+package com.hl.magic.letcode.dpattern.dp2factory.demo01.service;
 
 /**
  * 定义一个鸭子总类。具备以下基本行为动作。

@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpstrategy.demo06;
+package com.hl.magic.letcode.dpattern.dpstrategy.demo06;
 
 /**
  * 将鸭子飞的行为剥离出来，作为fly接口，提供两种子类

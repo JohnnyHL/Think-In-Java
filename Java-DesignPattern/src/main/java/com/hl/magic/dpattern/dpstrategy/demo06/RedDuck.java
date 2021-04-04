@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpstrategy.demo06;
+package com.hl.magic.letcode.dpattern.dpstrategy.demo06;
 
 /**
  * 红头鸭继承父类鸭子

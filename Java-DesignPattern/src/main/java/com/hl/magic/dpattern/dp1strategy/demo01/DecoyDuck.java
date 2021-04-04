@@ -1,6 +1,6 @@
-package com.hl.magic.dpattern.dp1strategy.demo01;
+package com.hl.magic.letcode.dpattern.dp1strategy.demo01;
 
-import com.hl.magic.dpattern.dp1strategy.base.BaseDuck1;
+import com.hl.magic.letcode.dpattern.dp1strategy.base.BaseDuck1;
 
 /**
  * 又增加了一个子类鸭子

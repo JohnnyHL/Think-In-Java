@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpstrategy.demo01;
+package com.hl.magic.letcode.dpattern.dpstrategy.demo01;
 
 /**
  * 橡皮鸭子

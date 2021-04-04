@@ -1,1 +1,1 @@
-package com.hl.magic.dpattern.dpfactory;
+package com.hl.magic.letcode.dpattern.dpfactory;

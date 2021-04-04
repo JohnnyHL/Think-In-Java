@@ -1,6 +1,6 @@
-package com.hl.magic.dpattern.dp1strategy.demo04.entity;
+package com.hl.magic.letcode.dpattern.dp1strategy.demo04.entity;
 
-import com.hl.magic.dpattern.dp1strategy.base.BaseDuck4;
+import com.hl.magic.letcode.dpattern.dp1strategy.base.BaseDuck4;
 
 /**
  * 诱饵鸭

@@ -1,7 +1,7 @@
-package com.hl.magic.dpattern.dp2factory.demo01.factory;
+package com.hl.magic.letcode.dpattern.dp2factory.demo01.factory;
 
-import com.hl.magic.dpattern.dp2factory.demo01.ClassUtils;
-import com.hl.magic.dpattern.dp2factory.demo01.service.IDuck;
+import com.hl.magic.letcode.dpattern.dp2factory.demo01.ClassUtils;
+import com.hl.magic.letcode.dpattern.dp2factory.demo01.service.IDuck;
 
 import java.util.List;
 

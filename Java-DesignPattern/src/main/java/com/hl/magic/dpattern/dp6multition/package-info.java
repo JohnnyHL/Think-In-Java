@@ -1,1 +1,1 @@
-package com.hl.magic.dpattern.dp6multition;
+package com.hl.magic.letcode.dpattern.dp6multition;

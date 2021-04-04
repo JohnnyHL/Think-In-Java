@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dp5observer.demo01;
+package com.hl.magic.letcode.dpattern.dp5observer.demo01;
 
 /**
  * 主题接口：对象使用此接口注册为观察者。或者是把自己删除

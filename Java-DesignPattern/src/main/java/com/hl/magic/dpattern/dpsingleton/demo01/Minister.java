@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpsingleton.demo01;
+package com.hl.magic.letcode.dpattern.dpsingleton.demo01;
 
 /**
  * 定义大臣

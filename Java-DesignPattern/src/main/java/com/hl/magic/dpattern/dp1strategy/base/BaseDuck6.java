@@ -1,10 +1,10 @@
-package com.hl.magic.dpattern.dp1strategy.base;
+package com.hl.magic.letcode.dpattern.dp1strategy.base;
 
-import com.hl.magic.dpattern.dp1strategy.demo06.entity.ModelDuck;
-import com.hl.magic.dpattern.dp1strategy.demo06.service.IFlyBehavior;
-import com.hl.magic.dpattern.dp1strategy.demo06.service.IQuackBehavior;
-import com.hl.magic.dpattern.dp1strategy.demo06.service.impl.FlyRocketPowered;
-import com.hl.magic.dpattern.dp1strategy.demo06.service.impl.Squeak;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo06.entity.ModelDuck;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo06.service.IFlyBehavior;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo06.service.IQuackBehavior;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo06.service.impl.FlyRocketPowered;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo06.service.impl.Squeak;
 
 /**
  * 策略模式--demo06

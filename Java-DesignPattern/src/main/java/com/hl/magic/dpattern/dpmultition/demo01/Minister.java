@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpmultition.demo01;
+package com.hl.magic.letcode.dpattern.dpmultition.demo01;
 
 public class Minister {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dp6multition.demo01;
+package com.hl.magic.letcode.dpattern.dp6multition.demo01;
 
 import java.util.ArrayList;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dp1strategy.demo04.service;
+package com.hl.magic.letcode.dpattern.dp1strategy.demo04.service;
 
 /**
  * quack接口

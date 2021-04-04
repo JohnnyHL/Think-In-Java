@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dp5observer.demo01;
+package com.hl.magic.letcode.dpattern.dp5observer.demo01;
 
 /**
  * 观察者接口：所有潜在的观察者必须实现观察者接口

@@ -1,8 +1,8 @@
-package com.hl.magic.dpattern.dp1strategy.demo05.entity;
+package com.hl.magic.letcode.dpattern.dp1strategy.demo05.entity;
 
-import com.hl.magic.dpattern.dp1strategy.base.BaseDuck5;
-import com.hl.magic.dpattern.dp1strategy.demo05.service.impl.FlyWithWings;
-import com.hl.magic.dpattern.dp1strategy.demo05.service.impl.Quack;
+import com.hl.magic.letcode.dpattern.dp1strategy.base.BaseDuck5;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo05.service.impl.FlyWithWings;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo05.service.impl.Quack;
 
 /**
  * 定义好父类鸭子、行为接口、实现类后

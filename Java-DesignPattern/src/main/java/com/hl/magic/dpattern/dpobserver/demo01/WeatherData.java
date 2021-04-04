@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpobserver.demo01;
+package com.hl.magic.letcode.dpattern.dpobserver.demo01;
 
 import java.util.ArrayList;
 

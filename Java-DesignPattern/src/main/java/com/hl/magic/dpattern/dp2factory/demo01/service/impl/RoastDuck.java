@@ -1,6 +1,6 @@
-package com.hl.magic.dpattern.dp2factory.demo01.service.impl;
+package com.hl.magic.letcode.dpattern.dp2factory.demo01.service.impl;
 
-import com.hl.magic.dpattern.dp2factory.demo01.service.IDuck;
+import com.hl.magic.letcode.dpattern.dp2factory.demo01.service.IDuck;
 
 /**
  * @author hl

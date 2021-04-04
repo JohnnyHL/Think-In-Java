@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dp4proxy.jdkproxy.demo1;
+package com.hl.magic.letcode.dpattern.dp4proxy.jdkproxy.demo1;
 
 /**
  * 真实对象

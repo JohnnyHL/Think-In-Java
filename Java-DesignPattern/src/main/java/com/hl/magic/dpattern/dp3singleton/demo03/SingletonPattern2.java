@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dp3singleton.demo03;
+package com.hl.magic.letcode.dpattern.dp3singleton.demo03;
 
 /**
  *	【2】通用单例模式-----------懒汉式单例

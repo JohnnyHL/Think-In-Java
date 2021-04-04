@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpstrategy.demo05;
+package com.hl.magic.letcode.dpattern.dpstrategy.demo05;
 
 /**
  * quack接口的一个实现类：鸭子呱呱叫

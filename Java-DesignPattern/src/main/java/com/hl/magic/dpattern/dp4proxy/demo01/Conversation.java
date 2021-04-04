@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dp4proxy.demo01;
+package com.hl.magic.letcode.dpattern.dp4proxy.demo01;
 
 /**
  * 代理人和被代理人之间的会话接口

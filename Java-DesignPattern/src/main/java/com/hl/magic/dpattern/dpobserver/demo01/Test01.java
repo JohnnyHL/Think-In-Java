@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpobserver.demo01;
+package com.hl.magic.letcode.dpattern.dpobserver.demo01;
 
 public class Test01 {
     public static void main(String[] args){

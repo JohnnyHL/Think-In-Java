@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dp5observer.demo01;
+package com.hl.magic.letcode.dpattern.dp5observer.demo01;
 
 import java.util.ArrayList;
 

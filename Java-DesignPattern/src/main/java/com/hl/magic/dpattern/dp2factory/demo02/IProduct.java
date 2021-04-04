@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dp2factory.demo02;
+package com.hl.magic.letcode.dpattern.dp2factory.demo02;
 
 /**
  * @author hl

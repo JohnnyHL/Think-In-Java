@@ -1,6 +1,6 @@
-package com.hl.magic.dpattern.dp1strategy.demo06.service.impl;
+package com.hl.magic.letcode.dpattern.dp1strategy.demo06.service.impl;
 
-import com.hl.magic.dpattern.dp1strategy.demo06.service.IFlyBehavior;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo06.service.IFlyBehavior;
 
 /**
  * 功能：鸭子不会飞翔

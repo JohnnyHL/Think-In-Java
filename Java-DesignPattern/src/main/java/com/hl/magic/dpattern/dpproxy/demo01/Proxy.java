@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpproxy.demo01;
+package com.hl.magic.letcode.dpattern.dpproxy.demo01;
 
 /**
  * 代理人Proxy，

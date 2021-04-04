@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpstrategy.demo03;
+package com.hl.magic.letcode.dpattern.dpstrategy.demo03;
 
 /**
  * 策略模式--demo03

@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpstrategy.demo07;
+package com.hl.magic.letcode.dpattern.dpstrategy.demo07;
 
 import org.junit.Test;
 

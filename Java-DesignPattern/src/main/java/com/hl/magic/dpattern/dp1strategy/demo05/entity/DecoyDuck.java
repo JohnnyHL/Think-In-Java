@@ -1,7 +1,7 @@
-package com.hl.magic.dpattern.dp1strategy.demo05.entity;
+package com.hl.magic.letcode.dpattern.dp1strategy.demo05.entity;
 
-import com.hl.magic.dpattern.dp1strategy.base.BaseDuck5;
-import com.hl.magic.dpattern.dp1strategy.demo05.service.impl.FlyNoWay;
+import com.hl.magic.letcode.dpattern.dp1strategy.base.BaseDuck5;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo05.service.impl.FlyNoWay;
 
 /**
  * 我们开又定义了一只诱饵鸭子，动作是啥样暂且不管，预留着，将来成熟了在附加新技能进来

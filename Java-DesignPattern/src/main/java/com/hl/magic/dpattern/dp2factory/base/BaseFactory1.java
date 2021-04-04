@@ -1,10 +1,10 @@
-package com.hl.magic.dpattern.dp2factory.base;
+package com.hl.magic.letcode.dpattern.dp2factory.base;
 
-import com.hl.magic.dpattern.dp2factory.demo01.factory.DuckFactory;
-import com.hl.magic.dpattern.dp2factory.demo01.service.IDuck;
-import com.hl.magic.dpattern.dp2factory.demo01.service.impl.BlackDuck;
-import com.hl.magic.dpattern.dp2factory.demo01.service.impl.RoastDuck;
-import com.hl.magic.dpattern.dp2factory.demo01.service.impl.YellowDuck;
+import com.hl.magic.letcode.dpattern.dp2factory.demo01.factory.DuckFactory;
+import com.hl.magic.letcode.dpattern.dp2factory.demo01.service.IDuck;
+import com.hl.magic.letcode.dpattern.dp2factory.demo01.service.impl.BlackDuck;
+import com.hl.magic.letcode.dpattern.dp2factory.demo01.service.impl.RoastDuck;
+import com.hl.magic.letcode.dpattern.dp2factory.demo01.service.impl.YellowDuck;
 
 /**
  * @author hl

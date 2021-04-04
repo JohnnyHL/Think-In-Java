@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpfactory.demo01;
+package com.hl.magic.letcode.dpattern.dpfactory.demo01;
 
 /**
  * 白种人

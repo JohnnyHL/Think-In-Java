@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpproxy.demo01;
+package com.hl.magic.letcode.dpattern.dpproxy.demo01;
 
 /**
  * 客户来了，需要与Jobber01对话，但是Jobber01忙的要死，这个时候人事代理出场了。

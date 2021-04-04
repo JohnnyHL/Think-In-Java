@@ -1,6 +1,6 @@
-package com.hl.magic.dpattern.dp1strategy.demo05.entity;
+package com.hl.magic.letcode.dpattern.dp1strategy.demo05.entity;
 
-import com.hl.magic.dpattern.dp1strategy.demo05.service.IQuackBehavior;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo05.service.IQuackBehavior;
 
 /**
  * quack接口的一个实现类：鸭子啥都不会做，就是不会叫

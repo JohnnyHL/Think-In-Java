@@ -1,8 +1,8 @@
-package com.hl.magic.dpattern.dp1strategy.demo06.entity;
+package com.hl.magic.letcode.dpattern.dp1strategy.demo06.entity;
 
-import com.hl.magic.dpattern.dp1strategy.base.BaseDuck6;
-import com.hl.magic.dpattern.dp1strategy.demo06.service.impl.FlyWithWings;
-import com.hl.magic.dpattern.dp1strategy.demo06.service.impl.Quack;
+import com.hl.magic.letcode.dpattern.dp1strategy.base.BaseDuck6;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo06.service.impl.FlyWithWings;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo06.service.impl.Quack;
 
 /**
  * 红头鸭继承父类鸭子

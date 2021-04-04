@@ -1,1 +1,1 @@
-package com.hl.magic.dpattern.dp5observer;
+package com.hl.magic.letcode.dpattern.dp5observer;

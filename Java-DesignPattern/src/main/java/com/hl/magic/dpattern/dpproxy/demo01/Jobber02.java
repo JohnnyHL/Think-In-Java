@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpproxy.demo01;
+package com.hl.magic.letcode.dpattern.dpproxy.demo01;
 
 /**
  * 被代理人Jobber02，它和被代理人Jobber01可能是竞争关系

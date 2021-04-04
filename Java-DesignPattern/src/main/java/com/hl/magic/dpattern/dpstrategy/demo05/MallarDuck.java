@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpstrategy.demo05;
+package com.hl.magic.letcode.dpattern.dpstrategy.demo05;
 
 /**
  * 定义好父类鸭子、行为接口、实现类后

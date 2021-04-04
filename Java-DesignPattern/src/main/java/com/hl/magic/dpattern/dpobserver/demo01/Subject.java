@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpobserver.demo01;
+package com.hl.magic.letcode.dpattern.dpobserver.demo01;
 
 /**
  * 主题接口：对象使用此接口注册为观察者。或者是把自己删除

@@ -1,8 +1,8 @@
-package com.hl.magic.dpattern.dp1strategy.demo04.entity;
+package com.hl.magic.letcode.dpattern.dp1strategy.demo04.entity;
 
-import com.hl.magic.dpattern.dp1strategy.base.BaseDuck4;
-import com.hl.magic.dpattern.dp1strategy.demo04.service.Flayable;
-import com.hl.magic.dpattern.dp1strategy.demo04.service.Quackable;
+import com.hl.magic.letcode.dpattern.dp1strategy.base.BaseDuck4;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo04.service.Flayable;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo04.service.Quackable;
 
 /**
  * 绿毛鸭

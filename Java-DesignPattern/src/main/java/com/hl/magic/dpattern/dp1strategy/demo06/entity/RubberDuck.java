@@ -1,8 +1,8 @@
-package com.hl.magic.dpattern.dp1strategy.demo06.entity;
+package com.hl.magic.letcode.dpattern.dp1strategy.demo06.entity;
 
-import com.hl.magic.dpattern.dp1strategy.base.BaseDuck6;
-import com.hl.magic.dpattern.dp1strategy.demo06.service.impl.FlyNoWay;
-import com.hl.magic.dpattern.dp1strategy.demo06.service.impl.Squeak;
+import com.hl.magic.letcode.dpattern.dp1strategy.base.BaseDuck6;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo06.service.impl.FlyNoWay;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo06.service.impl.Squeak;
 
 public class RubberDuck extends BaseDuck6 {
     public RubberDuck() {

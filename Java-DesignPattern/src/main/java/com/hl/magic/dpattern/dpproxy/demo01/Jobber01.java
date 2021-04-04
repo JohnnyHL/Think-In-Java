@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpproxy.demo01;
+package com.hl.magic.letcode.dpattern.dpproxy.demo01;
 
 /**
  * 供应商Jobber01(被代理人，也就是客户想找的那个目标对象，但是该目标对象不会直接与客户对话)

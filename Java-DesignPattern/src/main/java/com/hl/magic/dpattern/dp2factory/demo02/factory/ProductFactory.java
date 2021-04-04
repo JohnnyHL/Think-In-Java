@@ -1,7 +1,7 @@
-package com.hl.magic.dpattern.dp2factory.demo02.factory;
+package com.hl.magic.letcode.dpattern.dp2factory.demo02.factory;
 
-import com.hl.magic.dpattern.dp2factory.demo02.IProduct;
-import com.hl.magic.dpattern.dp2factory.demo02.entity.Product1;
+import com.hl.magic.letcode.dpattern.dp2factory.demo02.IProduct;
+import com.hl.magic.letcode.dpattern.dp2factory.demo02.entity.Product1;
 
 /**
  * 产品制造工厂

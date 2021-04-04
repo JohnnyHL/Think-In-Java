@@ -3,7 +3,7 @@
   <a href="https://www.oracle.com/technetwork/java/javase/downloads/index.html"><img alt="JDK" src="https://img.shields.io/badge/JDK-1.8.0_162-orange.svg"/></a>
 </p>
 
-## 开发环境
+## 开发环境 
 * 开发工具：IDEA 2019.3.1
 * JDK版本： JDK 1.8
 * Maven版本：3.6.3

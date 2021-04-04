@@ -1,9 +1,9 @@
-package com.hl.magic.dpattern.dp1strategy.base;
+package com.hl.magic.letcode.dpattern.dp1strategy.base;
 
-import com.hl.magic.dpattern.dp1strategy.demo05.entity.MuteQuack;
-import com.hl.magic.dpattern.dp1strategy.demo05.entity.RedDuck;
-import com.hl.magic.dpattern.dp1strategy.demo05.service.IFlyBehavior;
-import com.hl.magic.dpattern.dp1strategy.demo05.service.IQuackBehavior;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo05.entity.MuteQuack;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo05.entity.RedDuck;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo05.service.IFlyBehavior;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo05.service.IQuackBehavior;
 
 /**
  * 策略模式--demo05

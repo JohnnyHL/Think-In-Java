@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpstrategy.demo06;
+package com.hl.magic.letcode.dpattern.dpstrategy.demo06;
 
 /**
  * 新增一只模型鸭子，需要继承父类鸭子属性

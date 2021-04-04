@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpsingleton.demo03;
+package com.hl.magic.letcode.dpattern.dpsingleton.demo03;
 
 /**
  *	【1】线程不安全的单例---------饿汉式单例

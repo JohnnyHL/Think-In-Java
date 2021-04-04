@@ -1,7 +1,7 @@
-package com.hl.magic.dpattern.dpstrategy.demo05;
+package com.hl.magic.letcode.dpattern.dpstrategy.demo05;
 
 
-import com.hl.magic.dpattern.dpstrategy.demo04.Flayable;
+import com.hl.magic.letcode.dpattern.dpstrategy.demo04.Flayable;
 
 /**
  * 红头鸭继承父类鸭子

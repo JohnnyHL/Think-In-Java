@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpsingleton.demo03;
+package com.hl.magic.letcode.dpattern.dpsingleton.demo03;
 
 public class Test {
 

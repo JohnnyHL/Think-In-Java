@@ -1,10 +1,10 @@
-package com.hl.magic.dpattern.dp1strategy.demo05.entity;
+package com.hl.magic.letcode.dpattern.dp1strategy.demo05.entity;
 
-import com.hl.magic.dpattern.dp1strategy.demo04.service.Flayable;
-import com.hl.magic.dpattern.dp1strategy.demo04.service.Quackable;
-import com.hl.magic.dpattern.dp1strategy.base.BaseDuck5;
-import com.hl.magic.dpattern.dp1strategy.demo05.service.impl.FlyNoWay;
-import com.hl.magic.dpattern.dp1strategy.demo05.service.impl.Squeak;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo04.service.Flayable;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo04.service.Quackable;
+import com.hl.magic.letcode.dpattern.dp1strategy.base.BaseDuck5;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo05.service.impl.FlyNoWay;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo05.service.impl.Squeak;
 
 /**
  * 橡皮鸭

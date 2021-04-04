@@ -1,8 +1,8 @@
-package com.hl.magic.dpattern.dp1strategy.demo06.entity;
+package com.hl.magic.letcode.dpattern.dp1strategy.demo06.entity;
 
-import com.hl.magic.dpattern.dp1strategy.base.BaseDuck6;
-import com.hl.magic.dpattern.dp1strategy.demo06.service.impl.FlyNoWay;
-import com.hl.magic.dpattern.dp1strategy.demo06.service.impl.Quack;
+import com.hl.magic.letcode.dpattern.dp1strategy.base.BaseDuck6;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo06.service.impl.FlyNoWay;
+import com.hl.magic.letcode.dpattern.dp1strategy.demo06.service.impl.Quack;
 
 /**
  * 新增一只模型鸭子，需要继承父类鸭子属性

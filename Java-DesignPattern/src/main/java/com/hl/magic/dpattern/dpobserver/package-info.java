@@ -1,1 +1,1 @@
-package com.hl.magic.dpattern.dpobserver;
+package com.hl.magic.letcode.dpattern.dpobserver;

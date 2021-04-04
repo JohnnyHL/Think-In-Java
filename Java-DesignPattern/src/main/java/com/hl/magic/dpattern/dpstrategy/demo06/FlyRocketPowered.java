@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpstrategy.demo06;
+package com.hl.magic.letcode.dpattern.dpstrategy.demo06;
 
 /**
  * 鸭子想用火箭飞的方式，那么直接定义一个火箭飞实现类即可

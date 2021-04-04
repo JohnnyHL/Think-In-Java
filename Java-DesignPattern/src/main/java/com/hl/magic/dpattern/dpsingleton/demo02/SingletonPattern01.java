@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dpsingleton.demo02;
+package com.hl.magic.letcode.dpattern.dpsingleton.demo02;
 
 /**
  * 【特例】

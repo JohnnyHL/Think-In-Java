@@ -1,6 +1,6 @@
-package com.hl.magic.dpattern.dp2factory.demo02.entity;
+package com.hl.magic.letcode.dpattern.dp2factory.demo02.entity;
 
-import com.hl.magic.dpattern.dp2factory.demo02.IProduct;
+import com.hl.magic.letcode.dpattern.dp2factory.demo02.IProduct;
 
 /**
  * @author hl

@@ -1,4 +1,4 @@
-package com.hl.magic.dpattern.dp2factory.demo01;
+package com.hl.magic.letcode.dpattern.dp2factory.demo01;
 
 import java.io.IOException;
 import java.util.ArrayList;

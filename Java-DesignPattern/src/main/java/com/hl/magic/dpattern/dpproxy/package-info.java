@@ -1,1 +1,1 @@
-package com.hl.magic.dpattern.dpproxy;
+package com.hl.magic.letcode.dpattern.dpproxy;
