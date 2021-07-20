@@ -85,7 +85,8 @@ public class ParseCertDemo02 {
         byte[] cert = Files.readAllBytes(Paths.get("F:\\Tests\\Cert-Test\\11.cer"));
         String s = new String(cert);
 
-        boolean base64Encode = cn.com.jit.new_vstk.utils.Base64.isBase64(cert);
+//        boolean base64Encode = cn.com.jit.new_vstk.utils.Base64.isBase64(cert);
+        boolean base64Encode = true;
         System.out.println("【0】====>" + s);
         String hashAlg = "SM3";
         if (base64Encode){
