@@ -40,8 +40,4 @@ public class LinkedListBaseTest {
         linkedList.add("d");
         System.out.println("[1]链表：" + linkedList);
     }
-
-    public static void main(String[] args) {
-
-    }
 }

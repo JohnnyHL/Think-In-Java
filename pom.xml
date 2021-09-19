@@ -16,7 +16,8 @@
 		<module>Java-Git</module>
 		<module>Java-Maven</module>
 		<module>Java-Algorithm</module>
-	</modules>
+        <module>Java-Swing</module>
+    </modules>
 
 	<!-- 属性版本配置 -->
 	<properties>
